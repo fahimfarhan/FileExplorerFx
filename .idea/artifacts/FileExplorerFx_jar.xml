@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileExplorerFx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileExplorerFx_jar</output-path>
+    <root id="archive" name="FileExplorerFx.jar">
+      <element id="module-output" name="FileExplorerFx" />
+    </root>
+  </artifact>
+</component>
